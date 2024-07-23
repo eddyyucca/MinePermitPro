@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* resources/css/app.css */
+
+/* Add the following import */
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+/* If you have any custom styles, you can add them here */
